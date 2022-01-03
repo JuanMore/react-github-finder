@@ -20,10 +20,6 @@ function UserSearch() {
         }
     }
 
-    const handleClear = () => {
-        clearUsers()
-    }
-
     return (
         <div className='grid grid-cols-1 xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-2 mb-8 gap-8'>
             <form onSubmit={handleSubmit}>
@@ -38,10 +34,10 @@ function UserSearch() {
 
             {/* show clear button only if users are in state */}
             {users.length > 0 && (
-                <div className=''>
-                <button  onClick={handleClear} className='btn btn-ghost btn-lg'>Clear</button>
+                <div>
+                <button onClick={clearUsers} className='btn btn-ghost btn-lg'>Clear</button>
             </div>
-            ) }
+            )}
             
         </div>
     )
