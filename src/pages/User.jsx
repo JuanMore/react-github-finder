@@ -23,7 +23,6 @@ function User() {
             dispatch({ type: 'GET_USER_AND_REPOS', payload: userData })
         }
     
-            //call function
             getUserData()
         
         }, [dispatch, params.login])
