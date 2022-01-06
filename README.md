@@ -1,6 +1,9 @@
-# React Github Profile application built with React, Tailwind CSS and DaisyUI 
+# React Github Profile App 
 
-Deployed with Vercel at: https://reactgithubfinder-sable.vercel.app/user/JuanMore
+Deployed with Vercel at: https://reactgithubfinder-sable.vercel.app/user/JuanMore 
+<br />
+Built with React, Tailwind CSS and DaisyUI 
+
 
 <img width="1414" alt="Screen Shot 2022-01-05 at 4 19 30 PM" src="https://user-images.githubusercontent.com/20747118/148308504-18fc2cbf-8086-44d2-99fa-87f422ee4bd8.png">
 
