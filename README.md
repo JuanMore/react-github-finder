@@ -1,3 +1,14 @@
+# React Github User Search App
+
+<img width="1414" alt="Screen Shot 2022-01-05 at 4 19 30 PM" src="https://user-images.githubusercontent.com/20747118/148308504-18fc2cbf-8086-44d2-99fa-87f422ee4bd8.png">
+
+<img width="1385" alt="Screen Shot 2022-01-05 at 4 22 37 PM" src="https://user-images.githubusercontent.com/20747118/148308588-0a1e6ab2-f641-459f-8887-015bff1ed21d.png">
+
+<img width="1385" alt="Screen Shot 2022-01-05 at 4 23 48 PM" src="https://user-images.githubusercontent.com/20747118/148308705-10f3e80c-07b6-4994-a53b-1de1f1fab874.png">
+
+<img width="1385" alt="Screen Shot 2022-01-05 at 4 24 09 PM" src="https://user-images.githubusercontent.com/20747118/148308711-c78f8a25-847d-4284-9e60-3d715d00215d.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
